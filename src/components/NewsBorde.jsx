@@ -26,3 +26,4 @@ const NewsBorde = ({category}) => {
 }
 
 export default NewsBorde
+
